@@ -1,2 +1,2 @@
-# LV_VGS
-LabVIEW Wrapper für VGPROJECT SDK
+## LabVIEW Wrapper für VGPROJECT SDK
+Partially implemented for vgs_project.dll v.2.2.2
