@@ -12,10 +12,10 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="examples" Type="Folder">
-		<Item Name="01-Init.vi" Type="VI" URL="../examples&amp;tests/01-Init.vi"/>
+		<Item Name="Init.vi" Type="VI" URL="../examples&amp;tests/Init.vi"/>
 		<Item Name="VGS Volume Project from RAW Volume.vi" Type="VI" URL="../examples&amp;tests/VGS Volume Project from RAW Volume.vi"/>
 		<Item Name="VGS Automated Evaluation.vi" Type="VI" URL="../examples&amp;tests/VGS Automated Evaluation.vi"/>
-		<Item Name="01-Init and Load Project.vi" Type="VI" URL="../examples&amp;tests/01-Init and Load Project.vi"/>
+		<Item Name="Init and Load Project.vi" Type="VI" URL="../examples&amp;tests/Init and Load Project.vi"/>
 		<Item Name="VGS Volume (from RAW).vi" Type="VI" URL="../examples&amp;tests/VGS Volume (from RAW).vi"/>
 		<Item Name="VGS Volume.vi" Type="VI" URL="../examples&amp;tests/VGS Volume.vi"/>
 	</Item>
